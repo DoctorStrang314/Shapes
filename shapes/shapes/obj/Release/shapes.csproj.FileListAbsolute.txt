@@ -1,0 +1,8 @@
+D:\shapes\shapes\bin\Release\shapes.exe.config
+D:\shapes\shapes\bin\Release\shapes.exe
+D:\shapes\shapes\bin\Release\shapes.pdb
+D:\shapes\shapes\obj\Release\shapes.csproj.AssemblyReference.cache
+D:\shapes\shapes\obj\Release\shapes.csproj.SuggestedBindingRedirects.cache
+D:\shapes\shapes\obj\Release\shapes.csproj.CoreCompileInputs.cache
+D:\shapes\shapes\obj\Release\shapes.exe
+D:\shapes\shapes\obj\Release\shapes.pdb
