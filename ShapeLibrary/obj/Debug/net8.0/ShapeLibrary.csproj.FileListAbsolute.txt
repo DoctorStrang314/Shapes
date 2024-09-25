@@ -1,0 +1,11 @@
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\Dmitry\source\repos\ShapeLibrary\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll
